@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prenton.CSharp.Plugins", "Prenton.CSharp.Plugins.csproj", "{A583A82C-EC73-A27E-A558-3BFF01C19030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prenton.CSharp", "Prenton.CSharp.csproj", "{35A29EA3-408E-9F8D-0F3A-D19B172EAAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prenton.CSharp.Editor", "Prenton.CSharp.Editor.csproj", "{22C5CC1E-9295-FDA8-4BB7-BCF205294820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A583A82C-EC73-A27E-A558-3BFF01C19030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A583A82C-EC73-A27E-A558-3BFF01C19030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A583A82C-EC73-A27E-A558-3BFF01C19030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A583A82C-EC73-A27E-A558-3BFF01C19030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A29EA3-408E-9F8D-0F3A-D19B172EAAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A29EA3-408E-9F8D-0F3A-D19B172EAAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A29EA3-408E-9F8D-0F3A-D19B172EAAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A29EA3-408E-9F8D-0F3A-D19B172EAAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C5CC1E-9295-FDA8-4BB7-BCF205294820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C5CC1E-9295-FDA8-4BB7-BCF205294820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C5CC1E-9295-FDA8-4BB7-BCF205294820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C5CC1E-9295-FDA8-4BB7-BCF205294820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
